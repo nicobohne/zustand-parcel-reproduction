@@ -1,0 +1,18 @@
+{
+	"name": "zustand-parcel-reproduction",
+	"version": "1.0.0",
+	"source": "src/index.html",
+	"scripts": {
+		"dev": "parcel",
+		"build": "parcel build"
+	},
+	"dependencies": {
+		"process": "^0.11.10",
+		"react": "^18.2.0",
+		"react-dom": "^18.2.0",
+		"zustand": "4.1.5"
+	},
+	"devDependencies": {
+		"parcel": "^2.8.1"
+	}
+}
